@@ -1,0 +1,7 @@
+d17:18:44.878 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+X17:18:44.887 [Test worker] INFO reactor.Flux.Map.1 - onSubscribe(FluxMap.MapSubscriber)
+H17:18:44.888 [Test worker] INFO reactor.Flux.Map.1 - request(unbounded)
+B17:18:44.893 [Test worker] INFO reactor.Flux.Map.1 - onNext(AD14)
+B17:18:44.893 [Test worker] INFO reactor.Flux.Map.1 - onNext(BE25)
+B17:18:44.893 [Test worker] INFO reactor.Flux.Map.1 - onNext(CF36)
+B17:18:44.893 [Test worker] INFO reactor.Flux.Map.1 - onComplete()
